@@ -18,4 +18,4 @@ const users = [
 ];
 
 console.log(calculateTotal([10, 20, 30]));
-console.log(getUser(users, "John").age);
+console.log(getUser(users, "John Doe").age);
