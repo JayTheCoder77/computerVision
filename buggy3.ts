@@ -13,7 +13,7 @@ function getUser(users: { name: string; age: number }[], name: string) {
 }
 
 const users = [
-    { name: "Jayant", age: 20 },
+    { name: "JACK", age: 20 },
     { name: "Alex", age: 21 }
 ];
 
