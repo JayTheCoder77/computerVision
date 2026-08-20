@@ -19,5 +19,5 @@ fn main() {
     ];
 
     println!("{}", divide(10, 0));
-    println!("{}", find_user(users, "John"));
+    println!("{}", find_user(users, "John DOE"));
 }
